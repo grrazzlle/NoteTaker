@@ -7,6 +7,8 @@
 
   An application that can be used to write, save, and delete notes. This application uses an express backend and saves and retrieves notes data from a JSON file.
 
+  Click [here](https://grrazzlle-note-taker.herokuapp.com/) to try out the application
+
   ## Table of contents
 
   - [Installation](#Installation)
