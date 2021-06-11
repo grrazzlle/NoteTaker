@@ -5,7 +5,7 @@
 
   ## Description
 
-  Allows users to take notes and delete notes
+  An application that can be used to write, save, and delete notes. This application uses an express backend and saves and retrieves notes data from a JSON file.
 
   ## Table of contents
 
@@ -19,7 +19,7 @@
 
   ## Installation
 
-  run npm install, and then node server.js
+  Run npm install, and then node server.js
 
   ## Usage
 
@@ -30,13 +30,13 @@
   None 
   Find licence info [here](https://choosealicense.com/)
 
-  ## Contributoring
+  ## Contributing
 
   Self
 
   ## Tests
 
-  none
+  test
 
   ## Github
 
